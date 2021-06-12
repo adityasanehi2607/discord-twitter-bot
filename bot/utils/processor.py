@@ -387,7 +387,7 @@ class Processor:
         )
         self.embed.add_field(
             name="Quick Links:",
-            value="[Twitter](https://twitter.com/home) | [OnlyDrops.in](https://www.instagram.com/onlydrops.in/) | [DEV](https://www.instagram.com/adityasanehi/)",
+            value="**[Twitter](https://twitter.com/home) | [OnlyDrops.in](https://www.instagram.com/onlydrops.in/) | [DEV](https://www.instagram.com/adityasanehi/)**",
             inline= True,
         )
 
