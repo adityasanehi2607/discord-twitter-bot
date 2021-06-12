@@ -387,12 +387,12 @@ class Processor:
         )
         self.embed.add_field(
             name="Quick Links:",
-            value="**[Twitter](https://twitter.com/home) | [OnlyDrops.in](https://www.instagram.com/onlydrops.in/) | [DEV](https://www.instagram.com/adityasanehi/)**",
+            value="**[Tweeter](https://twitter.com/home) | [OnlyDrops.in](https://www.instagram.com/onlydrops.in/) | [DEV](https://www.instagram.com/adityasanehi/)**",
             inline= True,
         )
 
         self.embed.set_footer(
-            text="Flow Monitors | Flow Solutions",
+            text="CryptoTwitter v1.1 | Adi x HeavyDrops",
             icon_url="https://cdn.discordapp.com/attachments/838847460520361984/844546519939678258/Flow-Solutions-Branding-Final-Export-2-by-iamnotsrc.png",
         )
 
