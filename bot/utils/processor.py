@@ -393,7 +393,7 @@ class Processor:
 
         self.embed.set_footer(
             text="CryptoTwitter v1.1 | Adi x HeavyDrops",
-            icon_url="https://cdn.discordapp.com/attachments/838847460520361984/844546519939678258/Flow-Solutions-Branding-Final-Export-2-by-iamnotsrc.png",
+            icon_url="https://i.imgur.com/imZm2SE.png",
         )
 
     def send_message(self, wh_url):
