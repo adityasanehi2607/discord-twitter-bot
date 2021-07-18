@@ -392,8 +392,8 @@ class Processor:
         )
 
         self.embed.set_footer(
-            text="CryptoTwitter v1.1 | Adi x HeavyDrops",
-            icon_url="https://i.imgur.com/imZm2SE.png",
+            text="PriceErrors v1.1 | HeavyDrops Profits",
+            icon_url="https://i.imgur.com/NeJAV1h.jpg",
         )
 
     def send_message(self, wh_url):
